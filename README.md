@@ -8,10 +8,6 @@
 ### Database Schema
 ![schema](schema.png)
 
-### Routes
-
-_I'll add more details on the route usage later on. Sorry di didn't finish yet!_
-
 ##### Items Routes
 ```
 items GET   /items(.:format)      items#index
